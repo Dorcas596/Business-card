@@ -20,6 +20,16 @@ border: 1px solid #D1D5DB
 box-shadow: 0px 4px 4px 0px #00000040;
 
 }
+#mid{
+    width: 317px;
+height: 399px;
+top: 361px;
+left: 116px;
+gap: 0px;
+opacity: 0px;
+background: #1A1B21;
+
+}
 #laura{
     width: 317px;
 height: 317px;
