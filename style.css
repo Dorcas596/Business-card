@@ -19,3 +19,14 @@ border-radius: 10px 10px 0px 0px;
 opacity: 0px;
 
 }
+#h1{
+    font-family: Inter;
+font-size: 25px;
+font-weight: 700;
+line-height: 30.26px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+background: #FFFFFF;
+
+}
