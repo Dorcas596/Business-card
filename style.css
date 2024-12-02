@@ -68,3 +68,14 @@ text-decoration-skip-ink: none;
 color: #F3BF99;
 
 }
+#p3{
+    font-family: Inter;
+font-size: 10.24px;
+font-weight: 400;
+line-height: 15.36px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+background: #F5F5F5;
+
+}
