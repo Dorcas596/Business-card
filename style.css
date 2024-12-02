@@ -80,8 +80,6 @@ color: #F5F5F5;
 
 }
 #email{
-    width: Fixed (115px)px;
-height: Hug (34px)px;
 top: 465px;
 left: 206px;
 padding: 9px 13px 9px 11px;
@@ -92,7 +90,9 @@ opacity: 0px;
 color: black;
 border: 1px solid #D1D5DB
 box-shadow: 0px 1px 2px 0px #0000000D;
-
+font-size: 14px;
+font-weight: 500;
+line-height: 16px;
 }
 #linkedin{
     font-family: Inter;
@@ -102,6 +102,6 @@ line-height: 16px;
 text-align: left;
 text-underline-position: from-font;
 text-decoration-skip-ink: none;
-background-color: aqua;
+background-color: darkturquoise;
 color: black;
 }
