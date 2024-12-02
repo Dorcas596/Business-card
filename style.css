@@ -173,3 +173,20 @@ text-decoration-skip-ink: none;
 color: #DCDCDC;
 
 }
+#end{
+    width: 175px;
+height: 11px;
+top: 785px;
+left: 171px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 9px;
+font-weight: 700;
+line-height: 10.89px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFFA6;
+
+}
