@@ -105,3 +105,20 @@ text-decoration-skip-ink: none;
 background-color: darkturquoise;
 color: black;
 }
+#p4{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #F5F5F5;
+width: 242.71px;
+height: 21px;
+top: 554px;
+left: 151px;
+gap: 0px;
+opacity: 0px;
+
+}
